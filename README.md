@@ -22,13 +22,13 @@ lalu bisa cek status dengan perintah
     git status
 
 lalu bisa menambahkan file file dengan contoh sebagai berikut
-  1. untuk menambahkan file tertentu
-        git add READ.md
-  2. untuk menambahkan semua file
-        git add .
+1. untuk menambahkan file tertentu
+    git add READ.md
+2. untuk menambahkan semua file
+    git add .
      
 lalu melakukan commit dengan perintah
-  git commit -m "keterangan commit"
+    git commit -m "keterangan commit"
   
  lalu bisa melakukan push kode dengan perintah
-  git push -u origin master
+     git push -u origin master
